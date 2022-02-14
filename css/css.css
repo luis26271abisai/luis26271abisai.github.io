@@ -1,0 +1,904 @@
+
+/* Se ajusta el cuadro en su tamaño en siguenos en facebook */
+.Ta {
+    width: 250px;      
+}
+a, .Title {
+    color: #979797;
+    list-style-type: none;
+}
+a {
+    background-color: transparent;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+/* Formato de letras*/
+html {
+    font-family: open sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+/* Separación de iconos del lado izquierdo */
+
+ 
+/* icono de anime azul */
+.Azul, .ova {
+    background-color: #01bcf3;
+    border-color: #0476af;
+}
+
+.Azul:hover {
+    background: #07daff;
+    
+}
+
+/* icono de anime azul */
+li .Azul, .ova {
+    opacity: .5;
+    transition: all .2s;
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    right: 16px;
+}
+
+/* icono de anime azul */
+.Azul, .ova {
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 16px;
+    width: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(247, 240, 240);
+    display: inline-block;
+    height: 16px;
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+/* icono de anime azul */
+.Lista li a {
+    display: block;
+    padding: 10px 85px 10px 15px;
+    padding-top: 10px;
+    padding-right: 85px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    position:inherit;
+    white-space: nowrap;
+    -ms-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+/* Forma */
+nav ul, [class*=Menu], [class*=List] {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    list-style-type: none;
+}
+
+/* Hacer icono del lado izquierdo */
+
+.ova {
+    background-color: #ff7e00;
+    border-color: #ff7e00;
+}
+/* nada */
+
+body {
+    color: #9fa4a7;
+}
+
+/* Formato de Iconos */
+
+[class*=fa-]:empty:before {
+    margin-right: 0;
+}
+
+[class*=fa-]:before {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal!important;
+    font-weight: 400!important;
+    font-size: inherit;
+    line-height: inherit;
+    text-rendering: geometricPrecision;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: top;
+    margin-right: 10px;
+}
+/* barra grisanimeflv*/
+
+
+.ova {
+    background-color: #e47b12;
+    border-color: #ff7e00;
+  
+}
+li .ova {
+    opacity: .4;
+    transition: all .2s;
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    right: 16px;
+    
+}
+.ova {
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 16px;
+    width: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    display: inline-block;
+    height: 16px;
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    
+}
+
+.ova:hover {
+    background: #fda400;
+    
+}
+
+
+
+/* menú*/
+
+body {
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: rgb(247, 240, 240);
+    
+  }
+  
+ 
+  /* Color de la barra del navbar */
+  .navbar {
+   
+    margin-bottom: 0;
+    background-color: #131313fb;
+    border: 0;
+    font-size: 16px !important;
+   
+    opacity: 10;
+  }
+  /* Color de las palabras */
+  .navbar li a, .navbar .navbar-brand { 
+    color: #cfcfcf !important;
+    
+  }
+  .navbar-nav li a:hover {
+    color: rgb(255, 255, 255) !important;
+    
+  }
+  .navbar-nav li.active a {
+    color: #808080  !important;
+    background-color: #2e2e2efb!important;
+    
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+    
+  }
+
+/* Espacio*/
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+/* Pregunta*/
+
+.FollowUs,  .ttl{
+    font-size: 25.5px;
+    color: #000;
+    line-height: 150px;
+    text-align: center;
+    
+}
+
+*, :before, :after {
+    box-sizing: border-box;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+
+.FollowUs .Container {
+    padding: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+
+/* Color texto de abajao de la pregunta*/
+body {
+    color: #474747;
+    background-color: rgb(243, 242, 242);
+}
+body {
+    font-size: 15px;
+    line-height: 20px;
+    
+}
+
+/* Tamaño de pregunta */
+
+html {
+    font-family: open sans,sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    
+}
+
+
+
+li.lnk-h>a {
+   
+  color: #ff83f8!important;
+  opacity: 1!important;
+  position: relative;
+  letter-spacing: 0.08em;
+  
+}
+
+ .navbar-nav{
+font-weight: 700;
+    font-size: 16px;
+    color: #000;
+    letter-spacing: 0.08em;
+   
+}
+
+/* Icono azul HOY */
+
+.Title .Order {
+    padding-top: 15px;
+    font-size: 0;
+}
+
+.Title .Order>a:last-child {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.Title .Order>a:first-child {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+
+.Title .Order>a {
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #e7edf3;
+    line-height: 30px;
+    min-width: 65px;
+    padding: 0 15px;
+    padding-top: 0px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    height: 30px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+/*-------------- */
+
+.Title.Page h1, .Title.Page h2, .Title.Page h3, .Title.Page h4, .Title.Page h5, .Title.Page h6 {
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 30px;
+    padding: 5px 0;
+    padding-top: 5px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    margin-bottom: 0;
+    color: #3b4248;
+}
+
+.ListSocial a {
+    background-image: linear-gradient(rgb(151, 223, 252) 0%, rgb(1, 121, 250) 100%);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    border-radius: 5em;   
+}
+.ListSocial a {
+    font-size: 100;
+    text-align:center;
+    padding: 10px 10px;
+    padding-top: 14px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+}
+.tw a {
+    background-image: linear-gradient(rgb(68, 205, 230) 0%, rgb(145, 198, 248) 100%);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    border-radius: 5em;
+}
+.tw a {
+    font-size: 100;
+    text-align:center;
+    padding: 10px 10px;
+    padding-top: 14px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.Ins a {
+    background-image: linear-gradient(rgb(243, 167, 167) 0%, rgb(214, 5, 15) 100%);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    border-radius: 5em;
+}
+ .Ins a {
+    font-size: 100;
+    text-align:center;
+    padding: 10px 10px;
+    padding-top: 14px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.ra, .Po {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none; 
+}
+
+/*--------Imagenesss------ */
+.Episodios .Image img {
+    transition: .2s;
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transform: scale(1);  
+}
+.Episodios .Image img {
+    position:relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    z-index: 1;
+    transition: opacity .2s;
+    
+}
+
+.Episodios .Capi {
+    line-height: 3px;
+    background-color: #ff7e00;
+    border-radius: 50px;
+    padding: 0 9px;
+    margin-bottom: 0px;
+    
+}
+.Episodios .Capi {
+    line-height: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    position: absolute;
+    left: 10px;
+    bottom: 30px;
+    z-index: 3;
+    
+}
+.Episodios a {
+    position: relative;
+    display: block;
+    color: #ffffff;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.Episodios .Title  {
+    line-height: 20px;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    right: 10px;
+    z-index: 3;
+    -ms-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+    color: inherit;
+}
+.Episodios a:before {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    border-radius: 10px;
+    border: 2.5px solid #ffffff;
+    z-index: 10;
+    text-align: center;
+    font-size: 10px;
+    line-height: 16px;
+    padding-left: 1px;
+    margin-right: 0;
+    transition: right .4s;  
+}
+
+/*-------------- */
+ .Po {
+    display: flex;
+    justify-content:space-around;
+}
+/*------ULTIMOS EPISODIOS-- */
+.T{
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    padding: 5px 0;
+    padding-top: 5px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    margin-bottom: 0;
+    color: #fc6806;
+}
+ .T .Order {
+    padding-top: 15px;
+    font-size: 0;
+    }
+.T  .Order>a:last-child {
+     border-top-right-radius: 5px;
+     border-bottom-right-radius: 5px;
+        
+    }
+    .T .Order>a:first-child {
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+    .T .Order>a:hover, .Title .Order>a.Active {
+        background-color: #f88234;
+        position: relative;
+    }
+    
+    .T .Order>a {
+        font-size: 12px;
+        font-weight: 700;
+        color: #fff;
+        background-color: #2f8fe2;
+        line-height: 30px;
+        min-width: 65px;
+        padding: 0 15px;
+        padding-top: 0px;
+        padding-right: 15px;
+        padding-bottom: 0px;
+        padding-left: 15px;
+        height: 30px;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+    }
+    /*-------------- */
+    .Estreno span {
+        -moz-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        -webkit-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+        position: absolute;
+        left: -25px;
+        top: 10px;
+        color: #fff;
+        font-size: 10px;
+        font-weight: 700;
+        width: 100px;
+        text-align: center;
+        text-transform: uppercase;
+        background-color: #01ae43;
+        z-index: 2;
+        line-height: 25px;
+    }
+    .Anime.alt .Estreno {
+        transition: .5s;
+    }
+    
+    .Estreno {
+        position: absolute;
+        left: -5px;
+        top: -5px;
+        overflow: hidden;
+        width: 70px;
+        height: 70px;
+        z-index: 3;
+    }
+    
+    /*-------------- */
+
+    .Episodios .Cap {
+        line-height: 10px;
+        background-color: #5dccee;
+        border-radius: 50px;
+        padding: 0 9px;
+        margin-bottom: 0px;
+        
+    }
+    
+    .Episodios .Cap {
+        line-height: 15px;
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        left: 10px;
+        bottom: 30px;
+        z-index: 3;
+        
+    }
+
+    /*Espacio entre las imagenes  */
+
+    .Episodios.Rows>li, .Po.Rows>li {
+        width: 100%;
+    }
+    
+    .Column.A06, .Rows.A06>* {
+        width: 80%;
+    }
+    
+    .Rows>*, .Sp20[class*=Row]>* {
+        padding: 42px 10px 0;
+    }
+       .T.Rows>li, .Po.Rows>li {
+        width: 100%;
+    }
+    /*Rosa Hentai  */
+
+    li.lnk-h>a:after {
+        content: '+18';
+        color: #ffffff;
+        font-size: 11px;
+        background-color: #ff43ef;
+    }
+    li.lnk-h>a:before, li.lnk-h>a:after {
+        position: absolute;
+        width: 30px;
+        height: 16px;
+        line-height: 16px;
+        text-align: center;
+        right: 6px;
+        top: .5px;
+        border-radius: 12px;
+    }
+
+    /*Barra de hasta abajo  */
+
+    Footer>.Container {
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    
+    .Footer>.Container {
+        padding-top: 2px;
+        padding-bottom: 2px;
+    }
+    /*Centrado de Iconos  */
+    
+    .Container {
+        max-width: 765px;
+    }
+    .Container {
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    /*Barra Inferior */
+    .Footer {
+        text-align: center;
+    }
+    .Footer {
+        background-color: #333333;
+        color: #a5a7a7;
+        font-size: 15px;
+        text-align: center;
+    }
+    .Footer .mnftxt {
+        line-height: 25px;
+        padding: 50 80px;
+        font-weight: 30;
+        background-color: rgba(0, 0, 0, 0.3);
+        display: inline-block;
+        border-radius: 25px;
+    }
+.BX.Rows>*, .BX.Row.BFluid>.BFixed {
+    -webkit-flex: none;
+    -ms-flex: none;
+    flex: none;
+    max-width: 100%;
+}
+.BX.Row.BFluid>* {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+    /*Iconos Inferiores  */
+.Y a {
+    background-image: linear-gradient(rgb(224, 26, 26) 0%, rgb(253, 80, 80) 100%);
+   
+    color: rgb(241, 241, 241);
+  
+    font-size: 25px;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+     border-radius: 5em;  
+}
+ .Y a {
+    font-size: 100;
+    text-align:center;
+    padding: 10px 10px;
+    padding-top: 13px;
+    padding-right: 8px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+}
+/*Iconos Azules Animes */
+.Lista li a {
+    display: block;
+    padding: 10px 85px 10px 15px;
+    padding-top: 10px;
+    padding-right: 85px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    position: relative;
+    white-space: nowrap;
+    -ms-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+  /*Estreno Verde  */
+.Estreno span {
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    position: absolute;
+    left: -25px;
+    top: 10px;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 700;
+    width: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #01ae43;
+    z-index: 2;
+    line-height: 25px;
+}
+
+.Anime.alt .Estreno {
+    transition: .5s;
+}
+.Estreno {
+    position: absolute;
+    left: -5px;
+    top: -5px;
+    overflow: hidden;
+    width: 70px;
+    height: 70px;
+    z-index: 3;
+}
+
+.Estreno:before {
+    left: 0;
+    bottom: 5px;
+    background-color: #007a2d;
+    height: 7px;
+}
+
+.Estreno:before, .Estreno:after {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    content: '';
+    z-index: 1;
+}
+
+ 
+.Type.tv {
+    background-color: #01bcf3;
+    border-color: #01bcf3;
+    border-top-color: rgb(1, 188, 243);
+    border-right-color: rgb(1, 188, 243);
+    border-bottom-color: rgb(1, 188, 243);
+    border-left-color: rgb(1, 188, 243);
+}
+
+li .Type {
+    opacity: .5;
+    transition: all .2s;
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    right: 16px;
+}
+.Type {
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 16px;
+    width: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    display: inline-block;
+    height: 16px;
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+*, :before, :after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.ListSdbr li a {
+    display: block;
+    padding: 10px 85px 10px 15px;
+    position: relative;
+    white-space: nowrap;
+    -ms-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+a, .Title {
+    color: #65696d;
+}
+a {
+    background-color: transparent;
+    text-decoration: none;
+}
+hoja de estilo del agente de usuario
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+hoja de estilo del agente de usuario
+li {
+    text-align: -webkit-match-parent;
+}
+nav ul, [class*=Menu], [class*=List] {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+ul, ol, dl {
+    list-style-position: outside;
+}
+hoja de estilo del agente de usuario
+ul {
+    list-style-type: disc;
+}
+.mCustomScrollBox {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    max-width: 100%;
+    outline: 0;
+    direction: ltr;
+}
+body {
+    color: #9da1a4;
+}
+body {
+    font-size: 15px;
+    line-height: 20px;
+}
+html {
+    font-family: open sans,sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+*, :before, :after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+*, :before, :after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body ::-webkit-scrollbar {
+    background-color: #ccc;
+}
+body ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+body ::-webkit-scrollbar-thumb {
+    background-color: #eff8fb;
+}
